@@ -1,8 +1,9 @@
-# Skipsy Project
+
+## Folder Structure
 
 This project contains two microservices: **Student** and **Receipt**. Both microservices are part of the **Skipsy** system and are built using **Spring Boot**. 
 
-## Folder Structure
+# Skipsy Project
 
 Spring - Student fee management
 
