@@ -13,3 +13,10 @@ student - creates students, collects fees and stores the receipt. Added appropri
 receipt - store and view receipt functionality implemented. Implemented using feign client, circuit breaker, global exceptions, spring jpa, integration test cases and in memory H2 database
 
 Requests: Sample requests for each service available in postman collection file
+
+
+Swagger :
+
+STUDENT-MANAGEMENT-SERVICE - http://localhost:8081/swagger-ui.html
+
+RECEIPT-SERVICE - http://localhost:8083/swagger-ui.html
