@@ -3,7 +3,7 @@
 
 This project contains two microservices: **Student** and **Receipt**. Both microservices are part of the **Skipsy** system and are built using **Spring Boot**. 
 
-# Skipsy Project
+# Skiply Project
 
 Spring - Student fee management
 
